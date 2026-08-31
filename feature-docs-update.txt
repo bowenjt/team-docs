@@ -1,3 +1,1 @@
-some text
-some more text
-yet some more text
+original line
